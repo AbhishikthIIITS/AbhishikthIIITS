@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishikth Boda</h1>
-<h3 align="center">I am currently pursuing BTech in Computer Science Engineering from Indian Institute of Information Technology,Sricity</h3>
+<h3 align="center">I am currently pursuing BTech in Computer Science Engineering from Indian Institute of Information Technology, Sricity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishikthiiits&label=Profile%20views&color=0e75b6&style=flat" alt="abhishikthiiits" /> </p>
 
